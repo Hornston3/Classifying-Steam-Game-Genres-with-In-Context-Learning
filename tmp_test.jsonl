@@ -1,6 +1,0 @@
-{"appid": 413150, "variant": "short", "gold": ["RPG", "Simulation"], "raw": "{\"genres\": [\"Simulation\", \"RPG\"]}", "prompt_tokens": 138, "finish_reason": "stop", "completion_tokens": 13}
-{"appid": 413150, "variant": "about", "gold": ["RPG", "Simulation"], "raw": "{\"genres\": [\"Adventure\", \"Massively Multiplayer\", \"RPG\", \"Simulation\"]}", "prompt_tokens": 899, "finish_reason": "stop", "completion_tokens": 23}
-{"appid": 413150, "variant": "name_only", "gold": ["RPG", "Simulation"], "raw": "{\"genres\": [\"Adventure\", \"RPG\", \"Simulation\"]}", "prompt_tokens": 87, "finish_reason": "stop", "completion_tokens": 17}
-{"appid": 594650, "variant": "short", "gold": ["Action"], "raw": "{\"genres\": [\"Action\", \"Adventure\"]}", "prompt_tokens": 150, "finish_reason": "stop", "completion_tokens": 13}
-{"appid": 594650, "variant": "about", "gold": ["Action"], "raw": "{\"genres\": [\"Action\", \"Adventure\", \"Massively Multiplayer\"]}", "prompt_tokens": 380, "finish_reason": "stop", "completion_tokens": 19}
-{"appid": 594650, "variant": "name_only", "gold": ["Action"], "raw": "{\"genres\": [\"Action\", \"Adventure\", \"Massively Multiplayer\"]}", "prompt_tokens": 93, "finish_reason": "stop", "completion_tokens": 19}
