@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific
+
+# fastText language identification model (download separately)
+lid.176.bin
+
+# Raw Kaggle dataset (download separately, see README)
+data/games_march2025_cleaned.csv
+
+# Cached embeddings (~230 MB, recreated on first run)
+results/embeddings/
+
+# OS files
+.DS_Store
+Thumbs.db
