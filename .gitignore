@@ -234,3 +234,6 @@ results/embeddings/
 # OS files
 .DS_Store
 Thumbs.db
+
+data/*.csv
+!data/preprocessing_log.csv
