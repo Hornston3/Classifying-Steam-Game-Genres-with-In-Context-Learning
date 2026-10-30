@@ -1,0 +1,9 @@
+label,Micro-F1 [95% CI],Macro-F1 [95% CI],Precision,Recall,Labels/game
+Zero-shot (short description),".663 [.646, .680]",".583 [.552, .610]",.681,.646,1.64
+Zero-shot (about the game),".693 [.676, .709]",".618 [.591, .643]",.655,.735,1.94
+Zero-shot (title only),".571 [.550, .591]",".482 [.450, .510]",.577,.565,1.70
+Few-shot random (short description),".663 [.645, .681]",".598 [.567, .625]",.701,.630,1.56
+Few-shot random (about the game),".704 [.687, .720]",".641 [.613, .665]",.719,.689,1.66
+Few-shot kNN (short description),".680 [.663, .697]",".616 [.583, .645]",.691,.669,1.68
+Few-shot kNN (about the game),".707 [.690, .724]",".641 [.611, .668]",.700,.715,1.77
+Majority baseline,".499 [.478, .519]",".159 [.154, .164]",.465,.537,2.00

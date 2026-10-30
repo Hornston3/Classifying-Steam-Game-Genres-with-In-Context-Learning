@@ -1,0 +1,78 @@
+{
+  "raw_files": [
+    "zero_shot_test.jsonl",
+    "few_shot_random_test.jsonl",
+    "few_shot_knn_test.jsonl"
+  ],
+  "n_games": 1009,
+  "bootstrap_B": 10000,
+  "bootstrap_seed": 27,
+  "alpha": 0.05,
+  "m_tests": 24,
+  "percentiles": [
+    0.10416666666666667,
+    99.89583333333333
+  ],
+  "comparisons": [
+    [
+      "technique",
+      "few_shot_random|short",
+      "zero_shot|short"
+    ],
+    [
+      "technique",
+      "few_shot_random|about",
+      "zero_shot|about"
+    ],
+    [
+      "technique",
+      "few_shot_knn|short",
+      "zero_shot|short"
+    ],
+    [
+      "technique",
+      "few_shot_knn|about",
+      "zero_shot|about"
+    ],
+    [
+      "technique",
+      "few_shot_knn|short",
+      "few_shot_random|short"
+    ],
+    [
+      "technique",
+      "few_shot_knn|about",
+      "few_shot_random|about"
+    ],
+    [
+      "scope",
+      "zero_shot|about",
+      "zero_shot|short"
+    ],
+    [
+      "scope",
+      "few_shot_random|about",
+      "few_shot_random|short"
+    ],
+    [
+      "scope",
+      "few_shot_knn|about",
+      "few_shot_knn|short"
+    ],
+    [
+      "control",
+      "zero_shot|short",
+      "zero_shot|name_only"
+    ],
+    [
+      "control",
+      "zero_shot|about",
+      "zero_shot|name_only"
+    ],
+    [
+      "control",
+      "zero_shot|name_only",
+      "majority"
+    ]
+  ]
+}

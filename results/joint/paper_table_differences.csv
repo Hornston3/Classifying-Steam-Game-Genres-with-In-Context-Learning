@@ -1,0 +1,13 @@
+group,comparison,micro_f1,macro_f1
+technique,Few-shot random (short description) − Zero-shot (short description),"+.000 [-.018, +.019]","+.015 [-.009, +.043]"
+technique,Few-shot random (about the game) − Zero-shot (about the game),"+.011 [-.009, +.032]","+.023 [-.005, +.050]"
+technique,Few-shot kNN (short description) − Zero-shot (short description),"+.017 [-.003, +.037]","+.033 [+.002, +.067] *"
+technique,Few-shot kNN (about the game) − Zero-shot (about the game),"+.014 [-.009, +.038]","+.023 [-.013, +.059]"
+technique,Few-shot kNN (short description) − Few-shot random (short description),"+.017 [-.005, +.038]","+.018 [-.017, +.052]"
+technique,Few-shot kNN (about the game) − Few-shot random (about the game),"+.004 [-.019, +.027]","+.000 [-.034, +.038]"
+scope,Zero-shot (about the game) − Zero-shot (short description),"+.030 [+.008, +.053] *","+.035 [+.003, +.071] *"
+scope,Few-shot random (about the game) − Few-shot random (short description),"+.040 [+.016, +.064] *","+.043 [+.004, +.080] *"
+scope,Few-shot kNN (about the game) − Few-shot kNN (short description),"+.027 [+.001, +.053] *","+.025 [-.010, +.063]"
+control,Zero-shot (short description) − Zero-shot (title only),"+.093 [+.061, +.127] *","+.101 [+.048, +.152] *"
+control,Zero-shot (about the game) − Zero-shot (title only),"+.122 [+.092, +.154] *","+.136 [+.088, +.186] *"
+control,Zero-shot (title only) − Majority baseline,"+.072 [+.037, +.107] *","+.323 [+.275, +.369] *"

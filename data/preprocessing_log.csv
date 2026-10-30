@@ -1,0 +1,12 @@
+step,n_rows
+1 | Variable selection (no records deleted),89618
+2 | HTML Cleanup (no records deleted),89618
+3 | Remove missing values,89284
+4 | Remove adult content,88916
+5 | Language filter (english),70416
+6 | Reduce set of labels,60121
+7 | Remove short == about,59811
+8 | Label Leakage (no records removed),59811
+8.1 | Train,57799
+8.2 | Validation,1003
+8.3 | Test,1009

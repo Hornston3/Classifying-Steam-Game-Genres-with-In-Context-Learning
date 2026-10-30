@@ -1,0 +1,80 @@
+{"appid":3220530,"variant":"short","gold":["Adventure"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":139,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":3220530,"variant":"about","gold":["Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":293,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":2520180,"variant":"short","gold":["Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":90,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":2520180,"variant":"about","gold":["Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":123,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":633440,"variant":"short","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":132,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":633440,"variant":"about","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":592,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":2294330,"variant":"short","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"RPG\"]}","prompt_tokens":144,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":2294330,"variant":"about","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"RPG\"]}","prompt_tokens":285,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":1320940,"variant":"short","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":105,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1320940,"variant":"about","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Adventure\", \"Horror\"]}","prompt_tokens":163,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":2842860,"variant":"short","gold":["Adventure","RPG","Simulation"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":124,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":2842860,"variant":"about","gold":["Adventure","RPG","Simulation"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":476,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1961750,"variant":"short","gold":["Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":136,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1961750,"variant":"about","gold":["Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":161,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":737510,"variant":"short","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":126,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":737510,"variant":"about","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":236,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":684770,"variant":"short","gold":["Action","Adventure","Sports"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":137,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":684770,"variant":"about","gold":["Action","Adventure","Sports"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":419,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1531800,"variant":"short","gold":["Action","Adventure","RPG","Racing","Simulation"],"raw":"{\"genres\": [\"Racing\"]}","prompt_tokens":144,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1531800,"variant":"about","gold":["Action","Adventure","RPG","Racing","Simulation"],"raw":"{\"genres\": [\"Racing\"]}","prompt_tokens":234,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1902210,"variant":"short","gold":["Action","Adventure","Simulation","Strategy"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":92,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1902210,"variant":"about","gold":["Action","Adventure","Simulation","Strategy"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":187,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":2722330,"variant":"short","gold":["Action","Adventure","Simulation"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":146,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":2722330,"variant":"about","gold":["Action","Adventure","Simulation"],"raw":"{\"genres\": [\"Adventure\", \"RPG\", \"Simulation\"]}","prompt_tokens":1008,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":753560,"variant":"short","gold":["Strategy"],"raw":"{\"genres\": [\"Puzzle\"]}","prompt_tokens":114,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":753560,"variant":"about","gold":["Strategy"],"raw":"{\"genres\": [\"Puzzle\"]}","prompt_tokens":193,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1386620,"variant":"short","gold":["Action","RPG"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"RPG\"]}","prompt_tokens":140,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":1386620,"variant":"about","gold":["Action","RPG"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"RPG\"]}","prompt_tokens":653,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":2073220,"variant":"short","gold":["RPG","Simulation","Strategy"],"raw":"{\"genres\": [\"Adventure\", \"RPG\"]}","prompt_tokens":149,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":2073220,"variant":"about","gold":["RPG","Simulation","Strategy"],"raw":"{\"genres\": [\"Adventure\", \"RPG\", \"Simulation\", \"Strategy\"]}","prompt_tokens":940,"completion_tokens":20,"finish_reason":"stop"}
+{"appid":2477280,"variant":"short","gold":["Action","Adventure","RPG","Racing","Simulation","Strategy"],"raw":"{\"genres\": [\"Simulation\"]}","prompt_tokens":118,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":2477280,"variant":"about","gold":["Action","Adventure","RPG","Racing","Simulation","Strategy"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":178,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1740550,"variant":"short","gold":["Simulation","Sports","Strategy"],"raw":"{\"genres\": [\"Simulation\", \"Sports\"]}","prompt_tokens":110,"completion_tokens":12,"finish_reason":"stop"}
+{"appid":1740550,"variant":"about","gold":["Simulation","Sports","Strategy"],"raw":"{\"genres\": [\"Simulation\", \"Sports\"]}","prompt_tokens":880,"completion_tokens":12,"finish_reason":"stop"}
+{"appid":1521100,"variant":"short","gold":["Action","Sports"],"raw":"{\"genres\": [\"Sports\"]}","prompt_tokens":137,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":1521100,"variant":"about","gold":["Action","Sports"],"raw":"{\"genres\": [\"Action\", \"Sports\"]}","prompt_tokens":469,"completion_tokens":12,"finish_reason":"stop"}
+{"appid":1562700,"variant":"short","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":132,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1562700,"variant":"about","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":389,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1918100,"variant":"short","gold":["Action","Strategy"],"raw":"{\"genres\": [\"Action\", \"Strategy\"]}","prompt_tokens":142,"completion_tokens":12,"finish_reason":"stop"}
+{"appid":1918100,"variant":"about","gold":["Action","Strategy"],"raw":"{\"genres\": [\"Action\", \"Strategy\"]}","prompt_tokens":496,"completion_tokens":12,"finish_reason":"stop"}
+{"appid":981420,"variant":"short","gold":["Action"],"raw":"{\"genres\": [\"Action\"]}","prompt_tokens":111,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":981420,"variant":"about","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"RPG\"]}","prompt_tokens":269,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":2012990,"variant":"short","gold":["Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":112,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":2012990,"variant":"about","gold":["Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":218,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":773330,"variant":"short","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\"]}","prompt_tokens":105,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":773330,"variant":"about","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\", \"Racing\"]}","prompt_tokens":172,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1321040,"variant":"short","gold":["Adventure"],"raw":"{\"genres\": [\"Adventure\", \"RPG\"]}","prompt_tokens":110,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":1321040,"variant":"about","gold":["Adventure"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":237,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":3051080,"variant":"short","gold":["Adventure","RPG"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":132,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":3051080,"variant":"about","gold":["Adventure","RPG"],"raw":"{\"genres\": [\"Adventure\", \"Strategy\"]}","prompt_tokens":238,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":3447410,"variant":"short","gold":["Adventure","RPG","Simulation"],"raw":"{\"genres\": [\"Simulation\"]}","prompt_tokens":140,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":3447410,"variant":"about","gold":["Adventure","RPG","Simulation"],"raw":"{\"genres\": [\"Simulation\"]}","prompt_tokens":347,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":1352590,"variant":"short","gold":["RPG"],"raw":"{\"genres\": [\"Adventure\", \"Simulation\"]}","prompt_tokens":110,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1352590,"variant":"about","gold":["RPG"],"raw":"{\"genres\": [\"Adventure\", \"RPG\"]}","prompt_tokens":180,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":2653260,"variant":"short","gold":["RPG"],"raw":"{\"genres\": [\"Adventure\", \"RPG\"]}","prompt_tokens":135,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":2653260,"variant":"about","gold":["RPG"],"raw":"{\"genres\": [\"Adventure\", \"RPG\"]}","prompt_tokens":319,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":471640,"variant":"short","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":134,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":471640,"variant":"about","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":232,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1443650,"variant":"short","gold":["Simulation"],"raw":"{\"genres\": [\"Adventure\", \"Simulation\"]}","prompt_tokens":113,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":1443650,"variant":"about","gold":["Simulation"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":182,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":1318480,"variant":"short","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"RPG\"]}","prompt_tokens":139,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":1318480,"variant":"about","gold":["Action","Adventure"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"RPG\"]}","prompt_tokens":200,"completion_tokens":17,"finish_reason":"stop"}
+{"appid":2216270,"variant":"short","gold":["Adventure"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":125,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":2216270,"variant":"about","gold":["Adventure"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":385,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":2120850,"variant":"short","gold":["Action","Adventure","RPG"],"raw":"{\"genres\": [\"Adventure\", \"RPG\"]}","prompt_tokens":133,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":2120850,"variant":"about","gold":["Action","Adventure","RPG"],"raw":"{\"genres\": [\"Adventure\", \"RPG\"]}","prompt_tokens":1096,"completion_tokens":14,"finish_reason":"stop"}
+{"appid":730050,"variant":"short","gold":["Adventure","RPG","Simulation"],"raw":"{\"genres\": [\"Simulation\", \"RPG\"]}","prompt_tokens":135,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":730050,"variant":"about","gold":["Adventure","RPG","Simulation"],"raw":"{\"genres\": [\"Adventure\", \"Simulation\"]}","prompt_tokens":361,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":386750,"variant":"short","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":128,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":386750,"variant":"about","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\", \"Simulation\"]}","prompt_tokens":533,"completion_tokens":16,"finish_reason":"stop"}
+{"appid":603530,"variant":"short","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":131,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":603530,"variant":"about","gold":["Action"],"raw":"{\"genres\": [\"Action\", \"Adventure\"]}","prompt_tokens":312,"completion_tokens":13,"finish_reason":"stop"}
+{"appid":709610,"variant":"short","gold":["Adventure","Sports","Strategy"],"raw":"{\"genres\": [\"Puzzle\"]}","prompt_tokens":137,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":709610,"variant":"about","gold":["Adventure","Sports","Strategy"],"raw":"{\"genres\": [\"Puzzle\"]}","prompt_tokens":174,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":2612380,"variant":"short","gold":["Action"],"raw":"{\"genres\": [\"Action\"]}","prompt_tokens":102,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":2612380,"variant":"about","gold":["Action"],"raw":"{\"genres\": [\"Action\"]}","prompt_tokens":293,"completion_tokens":9,"finish_reason":"stop"}
+{"appid":513880,"variant":"short","gold":["Action","Massively Multiplayer","Simulation","Strategy"],"raw":"{\"genres\": [\"Massively Multiplayer\", \"Strategy\"]}","prompt_tokens":101,"completion_tokens":15,"finish_reason":"stop"}
+{"appid":513880,"variant":"about","gold":["Action","Massively Multiplayer","Simulation","Strategy"],"raw":"{\"genres\": [\"Action\", \"Massively Multiplayer\", \"Strategy\"]}","prompt_tokens":287,"completion_tokens":18,"finish_reason":"stop"}
+{"appid":2641910,"variant":"short","gold":["Action","Adventure","Racing","Simulation"],"raw":"{\"genres\": [\"Adventure\"]}","prompt_tokens":106,"completion_tokens":10,"finish_reason":"stop"}
+{"appid":2641910,"variant":"about","gold":["Action","Adventure","Racing","Simulation"],"raw":"{\"genres\": [\"Adventure\", \"Horror\"]}","prompt_tokens":202,"completion_tokens":14,"finish_reason":"stop"}

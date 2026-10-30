@@ -1,0 +1,25 @@
+group,comparison,metric,diff,ci_low,ci_high,significant
+technique,Few-shot random (short description) − Zero-shot (short description),micro_f1,0.0003104096513687482,-0.01812969924140714,0.018730443041439244,False
+technique,Few-shot random (short description) − Zero-shot (short description),macro_f1,0.01542046586001411,-0.008904164867091637,0.04308303705034479,False
+technique,Few-shot random (about the game) − Zero-shot (about the game),micro_f1,0.010772917346546285,-0.008840493143859218,0.031531428304987334,False
+technique,Few-shot random (about the game) − Zero-shot (about the game),macro_f1,0.022798777247630242,-0.004800830397675779,0.05045913619894475,False
+technique,Few-shot kNN (short description) − Zero-shot (short description),micro_f1,0.016892435991483823,-0.00334072279677164,0.037194826836736736,False
+technique,Few-shot kNN (short description) − Zero-shot (short description),macro_f1,0.03300484569273099,0.002495386639789889,0.06683260977486358,True
+technique,Few-shot kNN (about the game) − Zero-shot (about the game),micro_f1,0.014338878190145121,-0.009441376777162336,0.037775756968611136,False
+technique,Few-shot kNN (about the game) − Zero-shot (about the game),macro_f1,0.023107723989212237,-0.012603111698032068,0.058686972632954956,False
+technique,Few-shot kNN (short description) − Few-shot random (short description),micro_f1,0.016582026340115075,-0.005482182212164345,0.038465602088995354,False
+technique,Few-shot kNN (short description) − Few-shot random (short description),macro_f1,0.01758437983271688,-0.017316892654762807,0.051977453577636536,False
+technique,Few-shot kNN (about the game) − Few-shot random (about the game),micro_f1,0.0035659608435988366,-0.019271192692866163,0.026584964610219416,False
+technique,Few-shot kNN (about the game) − Few-shot random (about the game),macro_f1,0.00030894674158199464,-0.03414363282568673,0.03804079323957844,False
+scope,Zero-shot (about the game) − Zero-shot (short description),micro_f1,0.029766702338123396,0.008480133406061375,0.05324020743426463,True
+scope,Zero-shot (about the game) − Zero-shot (short description),macro_f1,0.03524554315117279,0.0029387721226824246,0.07086079068977512,True
+scope,Few-shot random (about the game) − Few-shot random (short description),micro_f1,0.04022921003330093,0.016079139020272415,0.0641904269053763,True
+scope,Few-shot random (about the game) − Few-shot random (short description),macro_f1,0.04262385453878892,0.003772994166107348,0.08004576621494494,True
+scope,Few-shot kNN (about the game) − Few-shot kNN (short description),micro_f1,0.027213144536784695,0.0005264575964236816,0.053107831126091035,True
+scope,Few-shot kNN (about the game) − Few-shot kNN (short description),macro_f1,0.025348421447654035,-0.010017536689214242,0.06311399501556929,False
+control,Zero-shot (short description) − Zero-shot (title only),micro_f1,0.09262220637790397,0.061074975387427836,0.12727395430041055,True
+control,Zero-shot (short description) − Zero-shot (title only),macro_f1,0.10089093001177885,0.048336722931452324,0.15209534073950132,True
+control,Zero-shot (about the game) − Zero-shot (title only),micro_f1,0.12238890871602737,0.09233804924934175,0.1536734388502989,True
+control,Zero-shot (about the game) − Zero-shot (title only),macro_f1,0.13613647316295163,0.08808079078106563,0.1863162870072107,True
+control,Zero-shot (title only) − Majority baseline,micro_f1,0.07184789982778683,0.037154472252862676,0.10733745309886945,True
+control,Zero-shot (title only) − Majority baseline,macro_f1,0.32301428613590233,0.27454550397982563,0.3687318366091482,True
